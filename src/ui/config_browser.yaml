@@ -1,0 +1,6 @@
+browserType: "chromium"
+launch:
+  channel: "chrome"
+  headless: True
+  args: ["--start-maximized"]
+context:
